@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="20" viewBox="0 0 21 20">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20px;
+        fill: #90a4ae;
+        text-anchor: middle;
+        font-family: icofont;
+      }
+    </style>
+  </defs>
+  <text id="in.svg" class="cls-1" x="10" y="16.999"><tspan x="10"></tspan></text>
+</svg>

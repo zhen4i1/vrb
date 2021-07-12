@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 18 16">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20px;
+        fill: #90a4ae;
+        text-anchor: middle;
+        font-family: icofont;
+      }
+    </style>
+  </defs>
+  <text id="twitter.svg" class="cls-1" x="9" y="14.999"><tspan x="9"></tspan></text>
+</svg>
